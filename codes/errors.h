@@ -1,0 +1,16 @@
+#ifndef PS4_ERRORS_H
+#define PS4_ERRORS_H
+
+#define NOERROR 0;
+#define NULLINPUT 1;
+#define WRONGINPUT 2;
+#define DIVISORZERO 3;
+#define TOOMANYOPERATOR 4;
+#define INVALIDOPERATOR 5;
+#define INVALIDEXPRESSION 6;
+#define MISMATCHED_PARENTHESIS 7;
+#define INVALID_FILE_OPERATION 8;
+
+void outputError(int);
+
+#endif //PS4_ERRORS_H

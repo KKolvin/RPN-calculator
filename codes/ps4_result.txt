@@ -1,0 +1,26 @@
+First test:
+Too many operators, program fails
+
+Second test:
+Invalid input, program fails
+
+Third test:
+No error, program finishes
+The result for expression 3 is : -12.909091
+
+Fourth test:
+No error, program finishes
+The result for expression 4 is : 85.333333
+
+Fifth test:
+Invalid expression, program fails
+
+Sixth test:
+Null input, program fails
+
+Seventh test:
+No error, program finishes
+The result for expression 7 is : 373.248000
+
+
+Process finished with exit code 0

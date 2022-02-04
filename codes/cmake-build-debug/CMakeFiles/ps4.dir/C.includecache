@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/tmp/tmp.ISOkdf5VYw/errors.h
+
+/tmp/tmp.ISOkdf5VYw/node.h
+
+/tmp/tmp.ISOkdf5VYw/rpn.c
+rpn.h
+/tmp/tmp.ISOkdf5VYw/rpn.h
+node.h
+/tmp/tmp.ISOkdf5VYw/node.h
+stack.h
+/tmp/tmp.ISOkdf5VYw/stack.h
+errors.h
+/tmp/tmp.ISOkdf5VYw/errors.h
+errors.h
+/tmp/tmp.ISOkdf5VYw/errors.h
+string.h
+-
+ctype.h
+-
+stdlib.h
+-
+stdio.h
+-
+
+/tmp/tmp.ISOkdf5VYw/rpn.h
+
+/tmp/tmp.ISOkdf5VYw/stack.h
+stdbool.h
+-
+node.h
+/tmp/tmp.ISOkdf5VYw/node.h
+

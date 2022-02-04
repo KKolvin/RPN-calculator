@@ -1,0 +1,30 @@
+Infix: 4 + 8 * 3
+Postfix:4 8 3 * + 
+Result: 28.00
+
+Infix: ( 4 + 8 ) * 3
+Postfix:4 8 + 3 * 
+Result: 36.00
+
+Infix: 6 + 9 + 4 ^ 2
+Postfix:6 9 + 4 2 ^ + 
+Result: 31.00
+
+Infix: 46 + ( 8 * 4 ) / 2
+Postfix:46 8 4 * 2 / + 
+Result: 62.00
+
+Infix: 7 ^ 2 * ( 25 + 10 / 5 ) - 13
+Postfix:7 2 ^ 25 10 5 / + * 13 - 
+Result: 1310.00
+
+Infix: ( 18 / 3 ) ^ 2 + ( ( 13 + 7 ) * 5 ^ 2 )
+Postfix:18 3 / 2 ^ 13 7 + 5 2 ^ * + 
+Result: 536.00
+
+Infix: ( 18 / 3 ) ^ 2 + ( ( 13 + 7 ) ) * 5 ^ 2 )
+Conversion from infix to postfix failure
+
+Infix: ( 18 / 3 ) ^ 2 + ( ( 13 + 7 ) * 5 ? 2
+Conversion from infix to postfix failure
+
